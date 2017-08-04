@@ -1,0 +1,2 @@
+# SCMT
+My windows application
